@@ -6,7 +6,7 @@ title: 'Title here'
 description: 'Description here'
 author: 'Author here'
 image: 'Image link (ex: Imgur, ThiccAssets)'
-date: Number (in UNIX milliseconds timestamp)
+date: Number (in UNIX seconds timestamp)
 ---
 
 markdown content
